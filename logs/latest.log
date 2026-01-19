@@ -1,16 +1,20 @@
-[12:58:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[12:58:33] [ServerMain/INFO]: No existing world data, creating new world
-[12:58:34] [ServerMain/INFO]: Loaded 1470 recipes
-[12:58:34] [ServerMain/INFO]: Loaded 1584 advancements
-[12:58:34] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[12:58:34] [Server thread/INFO]: Loading properties
-[12:58:34] [Server thread/INFO]: Default game type: SURVIVAL
-[12:58:34] [Server thread/INFO]: Generating keypair
-[12:58:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:58:34] [Server thread/INFO]: Preparing level "world"
-[12:58:34] [Server thread/INFO]: Selecting global world spawn...
-[12:58:35] [Server thread/INFO]: Loading 0 persistent chunks...
-[12:58:35] [Server thread/INFO]: Preparing spawn area: 100%
-[12:58:35] [Server thread/INFO]: Time elapsed: 1300 ms
-[12:58:35] [Server thread/INFO]: Done (1.427s)! For help, type "help"
-[12:59:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:14:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:14:54] [ServerMain/INFO]: Loaded 1470 recipes
+[16:14:54] [ServerMain/INFO]: Loaded 1584 advancements
+[16:14:54] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[16:14:54] [Server thread/INFO]: Loading properties
+[16:14:54] [Server thread/INFO]: Default game type: SURVIVAL
+[16:14:54] [Server thread/INFO]: Generating keypair
+[16:14:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:14:54] [Server thread/INFO]: Preparing level "world"
+[16:14:54] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:14:54] [Server thread/INFO]: Preparing spawn area: 100%
+[16:14:54] [Server thread/INFO]: Time elapsed: 14 ms
+[16:14:54] [Server thread/INFO]: Done (0.209s)! For help, type "help"
+[16:15:15] [Server thread/INFO]: oadardery (/127.0.0.1:43592) lost connection: Disconnected
+[16:15:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:16:00] [User Authenticator #1/INFO]: UUID of player oadardery is 79a0a79a-26b1-425e-8f82-618c3264d473
+[16:16:03] [Server thread/INFO]: oadardery[/127.0.0.1:58232] logged in with entity id 9 at (-0.5, 105.0, 3.5)
+[16:16:03] [Server thread/INFO]: oadardery joined the game
+[16:17:17] [Server thread/INFO]: oadardery lost connection: Disconnected
+[16:17:17] [Server thread/INFO]: oadardery left the game
